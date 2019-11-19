@@ -1,25 +1,52 @@
-# backend-learn-php
+# backend-learn
 
 #### 介绍
-后端PHP学习
+
+后端学习
+
+#### PHP
+
+#### Golang
+
+#### Java
+
+#### 数据库
+
+1. mysql
+2. redis
+3. mongo
+4. kafka
+
+#### 分布式
+
+#### 微服务
+
+#### 高并发
+
+#### Devops
+
+1. jekens
+2. git
+3. docker
+4. supervistor
+
+#### 设计模式
+
+#### 算法和数据结构
+
+#### Web服务器
+
+1. NGINX
+2. Apache
+3. IIS
+4. tomcat
 
 #### 软件架构
+
 软件架构说明
 
+#### Linux
 
-#### 参与贡献
+1. [linux教程](https://www.runoob.com/linux/linux-tutorial.html)
 
-1.  Fork 本仓库
-2.  新建 Feat_xxx 分支
-3.  提交代码
-4.  新建 Pull Request
-
-
-#### 码云特技
-
-1.  使用 Readme\_XXX.md 来支持不同的语言，例如 Readme\_en.md, Readme\_zh.md
-2.  码云官方博客 [blog.gitee.com](https://blog.gitee.com)
-3.  你可以 [https://gitee.com/explore](https://gitee.com/explore) 这个地址来了解码云上的优秀开源项目
-4.  [GVP](https://gitee.com/gvp) 全称是码云最有价值开源项目，是码云综合评定出的优秀开源项目
-5.  码云官方提供的使用手册 [https://gitee.com/help](https://gitee.com/help)
-6.  码云封面人物是一档用来展示码云会员风采的栏目 [https://gitee.com/gitee-stars/](https://gitee.com/gitee-stars/)
+#### 面试和简历
